@@ -12,6 +12,10 @@ class PositiveAndNegativeTests {
     }
 
     @Test
+    public void positive2() {
+    }
+
+    @Test
     public void negative() {
         assertEquals("", "foo" + "bar");
     }
